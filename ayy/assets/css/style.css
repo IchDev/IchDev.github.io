@@ -1,0 +1,8 @@
+.navbar .navbar-brand {
+  font-weight: 600;
+  margin: 5px 0px;
+  padding: 20px 15px;
+  font-size: 14px;
+  color: #E60000;
+  text-transform: uppercase;
+}
