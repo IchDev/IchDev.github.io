@@ -1,0 +1,39 @@
+body {
+	background-image: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-172715.jpg);
+	background-size: cover;
+
+}
+
+.navbar .navbar-brand {
+	font-family: 'Julius Sans One', sans-serif;
+	color: #FF073A;
+	text-shadow: 0em 0.095em 0.7em #D3002B, 0.10em 0.105em 0.012em #48B0C4, 0 0 50px #D3002B;
+	font-weight: bold;
+	font-size: 45px;
+	transition: .5s;
+}
+
+.btn {
+	color: #48B0C4;
+	text-shadow: 0em 0em 0.5em #48B0C4
+}
+
+h1 {
+	color: #48B0C4;
+	font-size: 25px;
+	text-shadow: 0em 0em 0.3em #D3002B, 0em 0em 0.5em #48B0C4;
+	margin-left: 20px;
+}
+
+img {
+	width: 350px;
+	height: 300px;
+	margin: 10px;
+	transition: all 1s;
+	object-fit: cover;
+}
+
+img:hover {
+	transform: scale(1.1);
+}
+
